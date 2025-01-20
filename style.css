@@ -1,0 +1,108 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logotitle{
+    display:flex;
+}
+.logodiv1 {
+    margin-top: 6px;
+    margin-left: 12px;
+    font-size: 14px;
+}
+.logodiv2 {
+    color: gray;
+    display: block;
+}
+.logoimg{
+    margin-top: 10px;
+    width: 36px;
+    height: 24px;
+    margin-left: 17px;
+}
+.mm{
+    
+color: black;
+    
+margin-left: 9px;
+}
+.menu{
+
+}
+.home{
+
+}
+.icons{
+
+}
+.icon{
+    margin-top: 11px;
+}
+.weburl{
+
+}
+.urlp{
+    
+}
+.row .col{
+    width: 35px;
+    height: 35px;
+}
+.active{
+    color: #ffc107 !important;
+}
+.banner{
+    height: 600px;
+}
+.col-1{
+    width:50vw !important;
+}
+.row1{
+    background-color: #ffc107 !important;
+    flex:3;
+}
+.row2{
+    flex:2;
+}
+.row3{
+    background-color: black;
+    flex:1;
+}
+.container-fluid .col-2{
+    flex: 1;
+    width: 100%;
+    height: 100%;
+}
+.image{
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+    object-position: top;
+}
+.head{
+    font-size: 60px !important;
+    width: 70% !important;
+}
+.h4{
+    font-size: 33px !important;
+
+}
+.para{
+    width: 80% !important;
+    font-size: 16px !important;
+}
+.row3 button{
+    padding: 6px 20px;
+    width: fit-content;
+}
+.row3 span{
+    width: fit-content;
+}
+
